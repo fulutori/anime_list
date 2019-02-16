@@ -106,6 +106,7 @@ NEW GAME!!
 Fate／Grand Order ‐First Order‐  
 幼女戦記  
 Rewrite 2nd Season  
+劇場版トリニティセブン -悠久図書館と錬金術少女-  
 
 ### 2016-秋  
 おくさまが生徒会長！＋！  
