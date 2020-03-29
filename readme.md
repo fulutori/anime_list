@@ -2,7 +2,7 @@
 また、シーズンごとの並び順はaokakesの個人的ランキングとなっています。  
   
 <details>
-<summary><span style="font-size: 150%">2019/春～2020/冬</span></summary>
+<summary style="font-size: 150%">2019/春～2020/冬</summary>
 <div>
 
 ### 2020-冬
