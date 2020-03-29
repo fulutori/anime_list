@@ -1,7 +1,7 @@
 西暦は公開年です。  
 また、シーズンごとの並び順はaokakesの個人的ランキングとなっています。  
   
-<details><summary><h2>2019/春～2020/冬</h2></summary>
+<details><h2><summary>2019/春～2020/冬</summary></h2>
 <div>
 
 ### 2020-冬
