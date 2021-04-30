@@ -20,6 +20,7 @@ aokakesが今までに見たアニメの一覧です。
 
 </div>
 </details>
+<details>
 <summary>2018/春～2019/冬</summary>
 <div>
 
