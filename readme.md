@@ -6,7 +6,7 @@ aokakesが今までに見たアニメの一覧です。
 ※シーズンごとの並び順はaokakesの個人的ランキング  
 <br>
 <details open>
-<summary>2018/春～2019/冬</summary>
+<summary>2021/春～2022/冬</summary>
 
 ## 2021/春～2022/冬
 ### 2021-冬
@@ -21,7 +21,7 @@ aokakesが今までに見たアニメの一覧です。
 </div>
 </details>
 <details>
-<summary>2018/春～2019/冬</summary>
+<summary>2020/春～2021/冬</summary>
 <div>
 
 ## 2020/春～2021/冬
